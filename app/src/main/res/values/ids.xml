@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="clRoot" type="id" />
+    <item name="rvMessages" type="id" />
+    <item name="etGuessField" type="id" />
+    <item name="btGuessButton" type="id" />
+    <item name="tvPhrase" type="id" />
+    <item name="tvLetters" type="id" />
+    <item name="tvHS" type="id" />
+</resources>
